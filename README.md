@@ -1,5 +1,3 @@
-<img alt="logo_adote" src="templates/static/usuarios/img/logo_adote.png" width="30%" align="center">
-
 <h1 align="center"> SITE ADO.TE </h1>
 
 <br>
